@@ -1,0 +1,18 @@
+body{
+	background-color: rgba(0,0,0,1);
+
+
+}
+
+#myImage {
+
+	border:solid 1px #fff;
+	width: 400px;
+	height: 319px;
+	background-image:url(../images/cupcake.jpg);
+	background-repeat:no-repeat;
+
+	/*border-style:solid;
+	border-width:1px;
+	border-color:#fff;*/
+}
